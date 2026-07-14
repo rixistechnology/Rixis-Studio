@@ -1,1 +1,233 @@
+Điều khoản sử dụng (Beta)
 
+Tên tài liệu: Rixis Studio End User License Agreement (EULA)
+
+Phiên bản ứng dụng: Rixis Studio (Beta) v1.1.23 (v010)
+
+Nhà phát triển: Rixis Technology
+
+Ngày hiệu lực: 2026
+
+Phiên bản EULA: Beta
+
+---
+
+Giới thiệu
+
+Chào mừng bạn đến với Rixis Studio.
+
+Điều khoản sử dụng này ("EULA") quy định các quyền và nghĩa vụ của người dùng khi cài đặt, truy cập và sử dụng Rixis Studio trong giai đoạn Beta.
+
+Việc cài đặt hoặc sử dụng ứng dụng đồng nghĩa với việc bạn đã đọc, hiểu và đồng ý tuân thủ toàn bộ các điều khoản được quy định trong tài liệu này.
+
+Phiên bản Beta được phát hành nhằm mục đích thử nghiệm và thu thập phản hồi trước khi phát hành phiên bản chính thức.
+
+Bản điều khoản mới nhất luôn được công bố tại:
+
+https://github.com/rixistechnology/Rixis-Studio/blob/main/Rixis%20Studio%20(EULA)
+
+Trong trường hợp có sự khác biệt giữa bản điều khoản được tích hợp trong ứng dụng và bản được công bố chính thức, phiên bản trên kho lưu trữ chính thức của Rixis Technology sẽ được ưu tiên áp dụng.
+
+---
+
+1. Giai đoạn Beta
+
+Rixis Studio hiện đang trong giai đoạn thử nghiệm (Beta).
+
+Trong quá trình sử dụng, ứng dụng có thể phát sinh:
+
+- Lỗi phần mềm.
+- Lỗi hiển thị.
+- Lỗi xử lý dự án.
+- Hiệu năng chưa ổn định.
+- Một số tính năng chưa hoàn thiện.
+- Các thay đổi về giao diện hoặc chức năng mà không cần thông báo trước.
+
+Người dùng được khuyến nghị thường xuyên sao lưu dữ liệu quan trọng.
+
+Mọi lỗi phát hiện trong quá trình sử dụng nên được gửi đến Rixis Technology để phục vụ quá trình hoàn thiện sản phẩm.
+
+---
+
+2. Quyền sở hữu trí tuệ
+
+Toàn bộ các thành phần sau thuộc quyền sở hữu của Rixis Technology, ngoại trừ các thư viện hoặc tài nguyên được cấp phép bởi bên thứ ba:
+
+- Mã nguồn ứng dụng.
+- Thuật toán xử lý.
+- Giao diện người dùng.
+- Thiết kế.
+- Biểu tượng.
+- Logo.
+- Thương hiệu.
+- Hệ thống chỉnh sửa.
+- Công nghệ xử lý dự án.
+- Các tài nguyên do Rixis Technology phát triển.
+
+Người dùng không được phép:
+
+- Sao chép.
+- Phân phối.
+- Chỉnh sửa.
+- Bán lại.
+- Cho thuê.
+- Dịch ngược (Reverse Engineering).
+- Giải mã.
+- Can thiệp vào cơ chế bảo vệ của ứng dụng.
+
+trừ khi được Rixis Technology cho phép bằng văn bản.
+
+---
+
+3. Xác minh thiết bị
+
+Ứng dụng có thể sử dụng định danh phần cứng (Hardware ID - HWID) nhằm:
+
+- Xác minh tài khoản.
+- Quản lý giấy phép.
+- Xác minh quyền truy cập.
+- Hỗ trợ các giao dịch ủng hộ (Donate).
+- Ngăn chặn hành vi sử dụng trái phép.
+
+Thông tin này chỉ được sử dụng cho các mục đích nêu trên.
+
+---
+
+4. Thư viện và giấy phép của bên thứ ba
+
+Rixis Studio có thể sử dụng các thư viện mã nguồn mở hoặc thư viện thương mại của bên thứ ba.
+
+Bản quyền và giấy phép của các thư viện này thuộc về chủ sở hữu tương ứng.
+
+Thông tin giấy phép của từng thư viện được hiển thị trong mục Open Source Licenses của ứng dụng.
+
+---
+
+5. Thành phần do người dùng cung cấp
+
+Người dùng có thể nhập vào ứng dụng các thành phần bên ngoài, bao gồm nhưng không giới hạn:
+
+- Video
+- Hình ảnh
+- Âm thanh
+- Phông chữ
+- GIF
+- Mẫu dự án
+- Hiệu ứng
+- LUT
+- Plugin
+- Tài nguyên đồ họa
+- Các tệp phương tiện khác
+
+Việc nhập các thành phần này là hành động hoàn toàn tự nguyện của người dùng.
+
+Người dùng xác nhận rằng mình có quyền sử dụng các thành phần đã nhập.
+
+Rixis Studio chỉ cung cấp công cụ chỉnh sửa và không xác minh nguồn gốc, quyền sở hữu hoặc tính hợp pháp của các thành phần do người dùng cung cấp.
+
+---
+
+6. Trách nhiệm đối với nội dung
+
+Người dùng hoàn toàn chịu trách nhiệm đối với:
+
+- Nội dung được tạo.
+- Nội dung được chỉnh sửa.
+- Nội dung được xuất.
+- Nội dung được chia sẻ.
+- Nội dung được tải lên.
+
+Rixis Technology không chịu trách nhiệm đối với bất kỳ tranh chấp nào liên quan đến:
+
+- Quyền tác giả.
+- Quyền sở hữu trí tuệ.
+- Nhãn hiệu.
+- Hình ảnh.
+- Âm nhạc.
+- Video.
+- Các vấn đề pháp lý phát sinh từ nội dung của người dùng.
+
+---
+
+7. Donate
+
+Trong giai đoạn Beta, Rixis Studio được cung cấp miễn phí.
+
+Người dùng có thể tự nguyện ủng hộ Rixis Technology thông qua tính năng Donate.
+
+Donate là khoản đóng góp tự nguyện nhằm hỗ trợ quá trình nghiên cứu và phát triển sản phẩm.
+
+Donate không được xem là khoản thanh toán để mua giấy phép sử dụng ứng dụng, trừ khi Rixis Technology công bố chính thức khác trong tương lai.
+
+---
+
+8. Phiên bản thương mại trong tương lai
+
+Sau khi kết thúc giai đoạn Beta, Rixis Technology có thể:
+
+- Phát hành phiên bản thương mại.
+- Áp dụng giấy phép sử dụng.
+- Cung cấp các tính năng trả phí.
+- Phát hành các gói đăng ký (Subscription).
+- Áp dụng cơ chế kích hoạt bản quyền.
+
+Việc sử dụng các phiên bản thương mại sẽ tuân theo các điều khoản được ban hành tại thời điểm phát hành.
+
+---
+
+9. Thu thập dữ liệu
+
+Tại thời điểm phát hành tài liệu này, Rixis Studio Beta không chủ động thu thập dữ liệu cá nhân hoặc dữ liệu dự án của người dùng lên máy chủ.
+
+Các tệp Project được lưu trữ cục bộ trên thiết bị của người dùng.
+
+Trong tương lai, nếu có thay đổi liên quan đến việc thu thập dữ liệu, Rixis Technology sẽ cập nhật Chính sách quyền riêng tư và thông báo đến người dùng.
+
+---
+
+10. Miễn trừ trách nhiệm
+
+Rixis Studio được cung cấp trong giai đoạn Beta.
+
+Rixis Technology không đảm bảo rằng:
+
+- Ứng dụng luôn hoạt động liên tục.
+- Không phát sinh lỗi.
+- Không xảy ra mất dữ liệu.
+- Không xảy ra sự cố tương thích.
+
+Người dùng tự chịu trách nhiệm sao lưu dữ liệu quan trọng trước khi sử dụng.
+
+Trong phạm vi pháp luật cho phép, Rixis Technology không chịu trách nhiệm đối với các thiệt hại trực tiếp hoặc gián tiếp phát sinh từ việc sử dụng hoặc không thể sử dụng ứng dụng.
+
+---
+
+11. Thay đổi điều khoản
+
+Rixis Technology có quyền sửa đổi, bổ sung hoặc cập nhật Điều khoản sử dụng này bất cứ lúc nào.
+
+Phiên bản mới nhất sẽ được công bố trên kho lưu trữ chính thức.
+
+Việc tiếp tục sử dụng ứng dụng sau khi điều khoản được cập nhật được xem là sự đồng ý của người dùng đối với các thay đổi đó.
+
+---
+
+12. Hỗ trợ
+
+Nếu phát hiện lỗi hoặc cần hỗ trợ kỹ thuật, vui lòng liên hệ:
+
+Email
+
+rixis.software.contacts@gmail.com
+
+GitHub
+
+https://github.com/rixistechnology
+
+---
+
+© 2026 Rixis Technology.
+
+Tất cả các quyền được bảo lưu (All Rights Reserved).
+
+Approved by @Kiex
