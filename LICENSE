@@ -1,7 +1,27 @@
-Copyright © 2026 Rixis Technology.
+BẢN QUYỀN SỞ HỮU TRÍ TUỆ (COPYRIGHT & LICENSE NOTICE)
+Ứng dụng: Rixis Studio
+Nhà phát triển: Rixis Technology
+Sản phẩm được phê duyệt bởi: @Kiex
 
-All Rights Reserved.
+----------------------------------------------------------------------
+BẢN QUYỀN © 2026 RIXIS TECHNOLOGY. TẤT CẢ CÁC QUYỀN ĐƯỢC BẢO LƯU.
+----------------------------------------------------------------------
 
-No part of this repository may be copied, modified,
-redistributed, published, or used without prior written
-permission from Rixis Technology.
+Bản quyền của tất cả các phần mềm, mã nguồn, thuật toán, giao diện người dùng, thiết kế đồ họa, biểu tượng, thương hiệu và các công nghệ xử lý dự án liên quan đến ứng dụng Rixis Studio đều thuộc quyền sở hữu trí tuệ duy nhất và độc quyền của Rixis Technology, ngoại trừ các thành phần hoặc thư viện của bên thứ ba được cấp phép hợp pháp.
+
+NGHIÊM CẤM thực hiện bất kỳ hành vi nào sau đây mà không có sự đồng ý trước bằng văn bản của Rixis Technology:
+
+1. Sao chép, sửa đổi, phân phối, xuất bản hoặc chuyển nhượng toàn bộ hoặc một phần mã nguồn, tài nguyên, hoặc sản phẩm đã được đóng gói của ứng dụng.
+2. Dịch ngược (Reverse Engineering), giải mã (Decompile), tháo rời (Disassemble) hoặc tìm cách can thiệp vào cơ chế bảo vệ bản quyền, hệ thống xác minh thiết bị (HWID) của ứng dụng dưới mọi hình thức.
+3. Cho thuê, bán lại, cấp phép lại hoặc sử dụng ứng dụng cho các mục đích thương mại không được cấp phép trực tiếp bởi Rixis Technology.
+
+Mọi hành vi vi phạm sẽ bị xử lý nghiêm khắc theo các quy định của pháp luật nước Cộng hòa Xã hội Chủ nghĩa Việt Nam về quyền tác giả và quyền sở hữu trí tuệ, cũng như các điều ước quốc tế liên quan mà Việt Nam là thành viên.
+
+----------------------------------------------------------------------
+THƯ VIỆN BÊN THỨ BA (THIRD-PARTY LIBRARIES)
+----------------------------------------------------------------------
+Rixis Studio có sử dụng một số thư viện mã nguồn mở của bên thứ ba dưới các giấy phép tương ứng (như MIT, Apache 2.0). Bản quyền và nghĩa vụ pháp lý của các thư viện này hoàn toàn thuộc về các chủ sở hữu tương ứng của chúng và được quy định chi tiết trong mục "Open Source Licenses" tích hợp bên trong ứng dụng.
+
+Để biết thêm thông tin hoặc yêu cầu cấp phép sử dụng, vui lòng liên hệ:
+Email: rixis.software.contacts@gmail.com
+GitHub: https://github.com/rixistechnology
