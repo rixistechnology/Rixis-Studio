@@ -1,0 +1,37 @@
+CHÍNH SÁCH QUYỀN RIÊNG TƯ (PRIVACY POLICY)
+Ứng dụng: Rixis Studio (Beta)
+Nhà phát triển: Rixis Technology
+Sản phẩm được phê duyệt bởi: @Kiex
+Ngày hiệu lực: 2026
+
+----------------------------------------------------------------------
+1. Cam kết chung về quyền riêng tư
+----------------------------------------------------------------------
+Rixis Technology tôn trọng và bảo vệ quyền riêng tư của người dùng ứng dụng Rixis Studio. Trong giai đoạn Beta này, chúng tôi cam kết KHÔNG thu thập, KHÔNG lưu trữ và KHÔNG chia sẻ bất kỳ thông tin cá nhân, hình ảnh, âm thanh, video hay dữ liệu dự án nào của bạn lên máy chủ ngoại vi hoặc bên thứ ba. Tất cả dữ liệu của bạn hoàn toàn được xử lý và lưu trữ cục bộ (offline) trên chính thiết bị của bạn.
+
+----------------------------------------------------------------------
+2. Giải trình mục đích sử dụng các quyền truy cập thiết bị (Permissions)
+----------------------------------------------------------------------
+Để ứng dụng có thể vận hành ổn định các tính năng chỉnh sửa phương tiện, Rixis Studio yêu cầu một số quyền truy cập cụ thể trên thiết bị của bạn. Chúng tôi chỉ sử dụng các quyền này cho mục đích kỹ thuật cục bộ, chi tiết như sau:
+
+- Truy cập Camera (CAMERA): Được sử dụng để cho phép người dùng quay video hoặc chụp ảnh trực tiếp và đưa vào trình chỉnh sửa của ứng dụng. Chúng tôi không chụp trộm hay gửi dữ liệu camera đi đâu.
+- Truy cập Micrô (RECORD_AUDIO & MODIFY_AUDIO_SETTINGS): Được sử dụng để thu âm trực tiếp âm thanh từ thiết bị cho tính năng lồng tiếng (Voiceover) hoặc phân tích biên độ âm thanh cho tính năng Visualizer.
+- Truy cập Bộ nhớ (MANAGE_EXTERNAL_STORAGE, READ/WRITE_EXTERNAL_STORAGE, READ_MEDIA_...): Được sử dụng để đọc các tệp tin âm thanh, video, hình ảnh, phông chữ do người dùng nhập (import) vào dự án và xuất (export) sản phẩm hoàn thiện ra thiết bị.
+- Kết nối mạng (INTERNET, ACCESS_NETWORK_STATE, ACCESS_WIFI_STATE): Được sử dụng để nạp các tài nguyên hiển thị động (như animation chạy cục bộ trên WebView) và kiểm tra trạng thái kết nối khi người dùng thực hiện các giao dịch ủng hộ (Donate) tự nguyện.
+
+----------------------------------------------------------------------
+3. Lưu trữ dữ liệu dự án
+----------------------------------------------------------------------
+Tất cả các tệp tin cấu hình dự án (Project Files), video tạm và tài nguyên nhập vào đều được lưu trữ hoàn toàn trong bộ nhớ nội bộ của thiết bị của bạn. Nếu bạn gỡ cài đặt ứng dụng hoặc xóa dữ liệu ứng dụng trong cài đặt hệ thống, các tệp tin dự án này có thể bị mất vĩnh viễn nếu chưa được sao lưu.
+
+----------------------------------------------------------------------
+4. Thay đổi chính sách quyền riêng tư
+----------------------------------------------------------------------
+Chúng tôi có thể cập nhật Chính sách quyền riêng tư này trong tương lai khi phát hành các tính năng trực tuyến mới hoặc phiên bản chính thức. Mọi sự thay đổi sẽ được công bố công khai trên kho lưu trữ chính thức của Rixis Technology tại GitHub.
+
+----------------------------------------------------------------------
+5. Liên hệ
+----------------------------------------------------------------------
+Nếu bạn có bất kỳ câu hỏi hoặc thắc mắc nào liên quan đến Quyền riêng tư của ứng dụng, vui lòng liên hệ với chúng tôi qua:
+Email: rixis.software.contacts@gmail.com
+GitHub: https://github.com/rixistechnology
